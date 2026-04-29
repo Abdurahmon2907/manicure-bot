@@ -1,0 +1,2 @@
+"""Manicure booking bot package."""
+
